@@ -1,0 +1,50 @@
+{
+    "head": [
+        "<meta charset=\"utf-8\">",
+        "<link href=\"/assets/css/style.css\" rel=\"stylesheet\">"
+    ],  
+    "body": {
+        "start": [], 
+        "end": [
+            "<script type=\"text/javascript\" src=\"/assets/js/redirect.js\"></script>"
+        ]
+    },  
+    "author": "Mobbing",
+    "theme": {
+        "name": "vue",
+        "files": [
+			{ src: "/dist/favicon.ico",					dist: "/favicon.ico" },
+			{ src: "/dist/index.html",					dist: "/index.html" },
+			{ src: "/dist/dist/app.css",				dist: "/dist/app.css" },
+			{ src: "/dist/dist/app.js",					dist: "/dist/app.js" },
+			{ src: "/dist/dist/app.js.map",				dist: "/dist/app.js.map" },
+			{ src: "/dist/dist/chunk-20694ad8.css",		dist: "/dist/chunk-20694ad8.css" },
+			{ src: "/dist/dist/chunk-20694ad8.js",		dist: "/dist/chunk-20694ad8.js" },
+			{ src: "/dist/dist/chunk-20694ad8.js.map",	dist: "/dist/chunk-20694ad8.js.map" },
+			{ src: "/dist/dist/chunk-2d230bbd.js",		dist: "/dist/chunk-2d230bbd.js" },
+			{ src: "/dist/dist/chunk-2d230bbd.js.map",	dist: "/dist/chunk-2d230bbd.js.map" },
+			{ src: "/dist/dist/chunk-4048dc5a.css",		dist: "/dist/chunk-4048dc5a.css" },
+			{ src: "/dist/dist/chunk-4048dc5a.js",		dist: "/dist/chunk-4048dc5a.js" },
+			{ src: "/dist/dist/chunk-4048dc5a.js.map",	dist: "/dist/chunk-4048dc5a.js.map" },
+			{ src: "/dist/dist/chunk-570f4c62.css",		dist: "/dist/chunk-570f4c62.css" },
+			{ src: "/dist/dist/chunk-570f4c62.js",		dist: "/dist/chunk-570f4c62.js" },
+			{ src: "/dist/dist/chunk-570f4c62.js.map",	dist: "/dist/chunk-570f4c62.js.map" },
+			{ src: "/dist/dist/chunk-8c949266.css",		dist: "/dist/chunk-8c949266.css" },
+			{ src: "/dist/dist/chunk-8c949266.js",		dist: "/dist/chunk-8c949266.js" },
+			{ src: "/dist/dist/chunk-8c949266.js.map",	dist: "/dist/chunk-8c949266.js.map" },
+			{ src: "/dist/dist/chunk-961271fc.css",		dist: "/dist/chunk-961271fc.css" },
+			{ src: "/dist/dist/chunk-961271fc.js",		dist: "/dist/chunk-961271fc.js" },
+			{ src: "/dist/dist/chunk-961271fc.js.map",	dist: "/dist/chunk-961271fc.js.map" },
+			{ src: "/dist/dist/chunk-f66853fa.css",		dist: "/dist/chunk-f66853fa.css" },
+			{ src: "/dist/dist/chunk-f66853fa.js",		dist: "/dist/chunk-f66853fa.js" },
+			{ src: "/dist/dist/chunk-f66853fa.js.map",	dist: "/dist/chunk-f66853fa.js.map" },
+			{ src: "/dist/dist/chunk-vendors.css",		dist: "/dist/chunk-vendors.css" },
+			{ src: "/dist/dist/chunk-vendors.js",		dist: "/dist/chunk-vendors.js" },
+			{ src: "/dist/dist/chunk-vendors.js.map",	dist: "/dist/chunk-vendors.js.map" },
+			{ src: "/dist/img/banner.87b4fee1.jpg",		dist: "/img/banner.87b4fee1.jpg" },
+			{ src: "/dist/img/home-1.be7f1dbd.jpg",		dist: "/img/home-1.be7f1dbd.jpg" },
+			{ src: "/dist/img/mail.95df0e72.jpg",		dist: "/img/mail.95df0e72.jpg" }	
+        ]   
+    }   
+}
+
