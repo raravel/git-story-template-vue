@@ -34,7 +34,7 @@
 				</v-row>
 			</v-container>
 
-			<v-container v-else style="max-width:unset">
+			<v-container v-else style="max-width:unset" class="px-0">
 				<v-row align="center" justify="center">
 					<v-col align="center">
 						<h1 class="title"><router-link style="text-decoration: none" class="black--text" to="/">Vue Blog</router-link></h1>
@@ -45,7 +45,7 @@
 					<v-col cols="1" v-if="blog" class="py-0">
 						<v-app-bar-nav-icon class="pa-0" @click="openMenu"></v-app-bar-nav-icon>
 					</v-col>
-					<v-col class="pa-2" align="center">
+					<v-col class="pa-2 px-0" align="center">
 						<v-btn 
 							text 
 							tile 

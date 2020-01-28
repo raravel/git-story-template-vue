@@ -52,6 +52,12 @@ const routes = [
 		component: () => import('../views/Portfolio.vue'),
 		meta: { title: 'Vue Blog Portfolio' },
 	},
+	{
+		path: ':page(.*)',
+		name: '404',
+		component: () => import('../views/Home.vue'),
+		meta: { title: 'Vue Blog' },
+	},
 ]
 
 const router = new VueRouter({
