@@ -5,9 +5,7 @@
     ],  
     "body": {
         "start": [], 
-        "end": [
-            "<script type=\"text/javascript\" src=\"/assets/js/redirect.js\"></script>"
-        ]
+        "end": []
     },  
     "author": "Mobbing",
     "theme": {
@@ -44,8 +42,7 @@
 			{ "src": "/dist/dist/chunk-vendors.js.map",		"dist": "/dist/chunk-vendors.js.map" },
 			{ "src": "/dist/img/banner.87b4fee1.jpg",		"dist": "/img/banner.87b4fee1.jpg" },
 			{ "src": "/dist/img/home-1.be7f1dbd.jpg",		"dist": "/img/home-1.be7f1dbd.jpg" },
-			{ "src": "/dist/img/mail.95df0e72.jpg",			"dist": "/img/mail.95df0e72.jpg" },
-			{ "src": "/.nojekyll" }	
+			{ "src": "/dist/img/mail.95df0e72.jpg",			"dist": "/img/mail.95df0e72.jpg" }
         ]   
     }   
 }
