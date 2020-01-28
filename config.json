@@ -15,6 +15,7 @@
         "files": [
 			{ "src": "/dist/favicon.ico",					"dist": "/favicon.ico" },
 			{ "src": "/dist/index.html",					"dist": "/index.html" },
+			{ "src": "/dist/404.html",						"dist": "/404.html" },
 			{ "src": "/dist/dist/app.css",					"dist": "/dist/app.css" },
 			{ "src": "/dist/dist/app.js",					"dist": "/dist/app.js" },
 			{ "src": "/dist/dist/app.js.map",				"dist": "/dist/app.js.map" },
